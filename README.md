@@ -1,6 +1,8 @@
 # yuentest
 Robust t-test (Yuen's test) Use yuen And yuenbt With (In) R Software
 
+https://www.youtube.com/watch?v=98HC6CjurUU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
